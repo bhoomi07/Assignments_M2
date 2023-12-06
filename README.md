@@ -1,1 +1,2 @@
-# Assignments_M2
+This assignment of module2 is about the manual testing of s/w testing which includes basic concept of bug, error, defect, failure, fault , Quality, Risk, test organization, test planning template, test process documentation like Test Analysis
+Test Plan/Strategy, Test Script/Test Step/Test Procedure, Test Scenario, Test Case, Test Condition, Test Procedure Speciﬁcation, Traceability, Tractability Matrix, STLC, level of testing like unit testing, integrestion testing, system testing, user acceptence testing, smoke and sanity testing, regresstion testing, retesting, maintenance testing, static testing, dynemic testing, build release process.
